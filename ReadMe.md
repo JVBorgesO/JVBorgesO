@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 Sou bacharel em ciência da computação<br>👯 Estou a procura de uma oportunidade<br>
+🔭 Olá, meu nome é João e tenho 24 anos. Sou apaixonado por tecnologia e estou sempre em busca de conhecimento em todas as áreas relacionadas. Tenho uma experiência de 5 anos trabalhando na indústria de tecnologia, com foco em três áreas principais: suporte técnico, desenvolvimento web e análise de dados BI (Business Intelligence).<br>
+<br>
+Durante minha carreira, tive a oportunidade de realizar projetos de marketing digital, incluindo a criação de e-mails em HTML para campanhas, o desenvolvimento de plataformas de e-commerce e a criação de sites para grandes clientes da indústria farmacêutica. Além disso, também trabalhei com instalações de servidores e forneci suporte aos usuários.<br>
+<br>
+Tenho experiência em design, com a criação de artes para redes sociais, agendamento de posts, copywriting e outras atividades relacionadas. Sou uma pessoa dedicada aos estudos e estou sempre buscando aprender um pouco de tudo.<br>
+<br>
+No geral, sou um profissional de tecnologia versátil, com habilidades em suporte técnico, desenvolvimento web, análise de dados BI e marketing digital. Tenho experiência em trabalhar com clientes de diferentes setores e estou aberto a novos desafios. Minha paixão pela tecnologia e minha vontade constante de aprender me impulsionam a buscar o melhor desempenho em minha carreira.<br>
 
 
 ## 🌐 Socials:
