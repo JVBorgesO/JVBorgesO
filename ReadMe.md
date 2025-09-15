@@ -1,11 +1,9 @@
-<p align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=ffffff&center=true&width=640&lines=Olá!;Sou+João+Victor+Borges;Dev+|+Data+Analyst+|+Open+Source" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=900&color=00d1ff&center=true&width=720&lines=Olá!%20%F0%9F%8C%8E;%20Entusiasta%20de%20IA;%20Criando%20ferramentas%20úteis;%20Contribua%20no%20GitHub" alt="Typing SVG"/>
   </a>
-  <br/>
-  <img src="https://img.shields.io/badge/💼-Portfolio-black" alt="Portfolio"/>
-  <img src="https://img.shields.io/badge/📫-Contato-FF5E5E" alt="Contato"/>
-</p>
+</div>
+
 
 # 💫 About Me:
 🔭Olá, sou o João, tenho 25 anos e sou apaixonado por tecnologia. Tenho 5 anos de experiência focada em suporte técnico, desenvolvimento web e análise de dados BI. Trabalhei em projetos de marketing digital, criação de e-mails em HTML, plataformas de e-commerce e sites para grandes clientes, além de instalações de servidores e suporte aos usuários, ja em análise de dados, tenho experiência na criação de dashboards, uso de SQL, elaboração de relatórios, mineração de dados, desenvolvimento de KPIs e automação de processos. Também atuo no design, criando artes para redes sociais e fazendo copywriting. Sou versátil e estou sempre buscando aprender e enfrentar novos desafios na área de tecnologia.<br>
