@@ -1,3 +1,10 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
+
+
 # 💫 About Me:
 🔭Olá, sou o João, tenho 25 anos e sou apaixonado por tecnologia. Tenho 5 anos de experiência focada em suporte técnico, desenvolvimento web e análise de dados BI. Trabalhei em projetos de marketing digital, criação de e-mails em HTML, plataformas de e-commerce e sites para grandes clientes, além de instalações de servidores e suporte aos usuários, ja em análise de dados, tenho experiência na criação de dashboards, uso de SQL, elaboração de relatórios, mineração de dados, desenvolvimento de KPIs e automação de processos. Também atuo no design, criando artes para redes sociais e fazendo copywriting. Sou versátil e estou sempre buscando aprender e enfrentar novos desafios na área de tecnologia.<br>
 
