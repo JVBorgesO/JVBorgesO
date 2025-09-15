@@ -1,8 +1,7 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=900&color=00d1ff&center=true&width=720&lines=Olá!%20%F0%9F%8C%8E;%20Entusiasta%20de%20IA;%20Criando%20ferramentas%20úteis;%20Contribua%20no%20GitHub" alt="Typing SVG"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00d1ff&center=true&width=600&lines=Bem-vindo+ao+meu+perfil!" alt="Typing SVG"/>
 </div>
+
 
 
 # 💫 About Me:
