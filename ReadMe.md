@@ -2,11 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00d1ff&center=true&width=600&lines=Bem-vindo+ao+meu+perfil!" alt="Typing SVG"/>
 </div>
 
-
-
-# 💫 About Me:
-🔭Olá, sou o João, tenho 25 anos e sou apaixonado por tecnologia. Tenho 5 anos de experiência focada em suporte técnico, desenvolvimento web e análise de dados BI. Trabalhei em projetos de marketing digital, criação de e-mails em HTML, plataformas de e-commerce e sites para grandes clientes, além de instalações de servidores e suporte aos usuários, ja em análise de dados, tenho experiência na criação de dashboards, uso de SQL, elaboração de relatórios, mineração de dados, desenvolvimento de KPIs e automação de processos. Também atuo no design, criando artes para redes sociais e fazendo copywriting. Sou versátil e estou sempre buscando aprender e enfrentar novos desafios na área de tecnologia.<br>
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-victor-borges-de-oliveira/) 
 
