@@ -41,12 +41,6 @@ Desenvolvedor Full Stack focado em soluções corporativas, integração de sist
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
----
-
-# 📊 GitHub Stats:
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JVBorgesO&theme=dracula)
-
-
 
 ---
 
