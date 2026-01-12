@@ -44,7 +44,7 @@ Desenvolvedor Full Stack focado em soluções corporativas, integração de sist
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JVBorgesO&theme=dracula&hide_border=false&layout=compact)![](https://github-readme-stats.vercel.app/api/top-langs/?username=JVBorgesO&theme=dracula&hide_border=false&layout=compact&v=1)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JVBorgesO&theme=dracula&hide_border=false&layout=compact&v=2)
 
 ---
 
