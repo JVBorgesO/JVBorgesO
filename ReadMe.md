@@ -3,7 +3,7 @@
 </div>
 
 ## 👨‍💻 Sobre mim
-Desenvolvedor Full Stack focado em soluções corporativas, integração de sistemas e automação de processos. Atuo na construção de APIs, backends robustos e interfaces que conectam tecnologia às necessidades do negócio.**.
+Desenvolvedor Full Stack focado em soluções corporativas, integração de sistemas e automação de processos. Atuo na construção de APIs, backends robustos e interfaces que conectam tecnologia às necessidades do negócio.
 
 ---
 
